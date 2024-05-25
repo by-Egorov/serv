@@ -10,3 +10,7 @@ server.get('/', (req, res) => {
 server.listen(PORT, () => {
 	console.log(`server run is port ${PORT}`)
 })
+
+
+
+// light server
